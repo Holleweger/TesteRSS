@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Meu Feed de Texto</title>
-    <description>Feed RSS somente com texto</description>
+    <title>Feed de Avisos</title>
+    <link>http://exemplo.com</link>
+    <description>Somente texto</description>
     <language>pt-br</language>
 
     <item>
-      <description>Este é o conteúdo em texto puro da notícia 1 ABC</description>
+      <description>Aviso 1: Este é o conteúdo em texto puro.</description>
+      <pubDate>Fri, 30 Jan 2026 11:00:00 GMT</pubDate>
+      <guid>1</guid>
     </item>
+
+    <item>
+      <description>Aviso 2: Outro conteúdo em texto, sem título.</description>
+      <pubDate>Fri, 30 Jan 2026 11:05:00 GMT</pubDate>
+      <guid>2</guid>
+    </item>
+
   </channel>
 </rss>
