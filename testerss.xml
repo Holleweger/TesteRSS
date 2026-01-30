@@ -8,8 +8,7 @@
     <item>
       <title>Notícia 1</title>
       <description>Este é o conteúdo em texto puro da notícia 1.</description>
-      <pubDate>Fri, 30 Jan 2026 08:46:00 GMT</pubDate>
-      <guid>1</guid>
+      <description>Assinatura...</description>
     </item>
   </channel>
 </rss>
